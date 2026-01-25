@@ -41,7 +41,7 @@ Run these in order:
 4. `03_reconcile.sql`  
    Side-by-side comparison: activity-timed vs cash-timed revenue + mismatch drill-down
 
-5. `01_reconcile_checks.sql`  
+5. `04_reconcile_checks.sql`  
    “Detective work” that explains why the dashboards disagree (date ranges + drill-downs)
 
 ---
