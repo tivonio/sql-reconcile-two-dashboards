@@ -1,0 +1,28 @@
+
+---
+
+## `.gitignore` (paste this)
+
+```gitignore
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Local env files
+.env
+.env.*
+
+# Python (if you add notebooks later)
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Optional: if you later add exported results
+output/
