@@ -1,4 +1,4 @@
-# Post #1 — Why Finance Shows $0 Revenue in August While Marketing Looks Strong (Pagila + SQL)
+# Why Two Dashboards Show Different Revenue Numbers (Debugging with SQL)
 
 This repo contains the complete SQL walkthrough for "Why Two Dashboards Show Different Revenue Numbers".
 
