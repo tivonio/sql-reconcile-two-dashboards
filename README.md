@@ -32,17 +32,17 @@ Run these in order:
 1. `00_pagila_check.sql`  
    Confirms Pagila is loaded and shows what’s inside (tables, row counts, date ranges)
 
-2. `01_reconcile_checks.sql`  
-   “Detective work” that explains why the dashboards disagree (date ranges + drill-downs)
-
-3. `02_marketing_dashboard.sql`  
+2.  `01_marketing_dashboard.sql`  
    Marketing-style metrics (activity and customers)
 
-4. `03_finance_dashboard.sql`  
+3. `02_finance_dashboard.sql`  
    Finance-style metrics (payments and operational signals)
 
-5. `04_reconcile.sql`  
+4. `03_reconcile.sql`  
    Side-by-side comparison: activity-timed vs cash-timed revenue + mismatch drill-down
+
+5. `01_reconcile_checks.sql`  
+   “Detective work” that explains why the dashboards disagree (date ranges + drill-downs)
 
 ---
 
