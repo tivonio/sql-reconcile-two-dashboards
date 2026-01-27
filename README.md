@@ -14,7 +14,7 @@ In Pagila, these timelines do not fully overlap, which creates a realistic “tw
 You will confirm:
 
 - Rentals run from **Feb 14, 2022 to Aug 23, 2022**
-- Payments run from **Jan 2022 to Jul 2022** (no payments recorded in August)
+- Payments run from **Jan 23, 2022 to Jul 27, 2022** (no payments recorded in August)
 - August activity can look strong while Finance shows **$0** in August because the payment timeline ends in July
 - August rental dollars are recorded under earlier payment months (Jan–Jul)
 
