@@ -1,0 +1,23 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: pg-pagila
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: pagila
+    ports:
+      - "5434:5432"
+    volumes:
+      - pagila_data:/var/lib/postgresql/data
+      - ./pagila:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d pagila"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  pagila_data:
+
