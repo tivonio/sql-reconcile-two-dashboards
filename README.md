@@ -1,6 +1,6 @@
 # Why Two Dashboards Show Different Revenue Numbers (Debugging with SQL)
 
-This repo contains the complete SQL walkthrough for ["Why Two Dashboards Show Different Revenue Numbers"](https://tivon.io/2026/01/19/why-two-dashboards-show-different-revenue-numbers-debugging-with-sql/) (published on tivon.io).
+This repo contains the complete SQL walkthrough for ["How I Debug Revenue Mismatches in SQL"](https://tivon.io/2026/01/19/how-i-debug-revenue-mismatches-in-sql/) (published on tivon.io).
 
 It uses the **Pagila** sample dataset to demonstrate a common analytics problem:
 
