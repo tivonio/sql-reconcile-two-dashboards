@@ -1,4 +1,4 @@
-# Why Two Dashboards Show Different Revenue Numbers (Debugging with SQL)
+# How I Debug Revenue Mismatches in SQL
 
 This repo contains the complete SQL walkthrough for ["How I Debug Revenue Mismatches in SQL"](https://tivon.io/2026/01/19/how-i-debug-revenue-mismatches-in-sql/) (published on tivon.io).
 
